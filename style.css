@@ -32,6 +32,11 @@ body{
        font-family: Georgia, 'Times New Roman', Times, serif;
        font-size:medium;
        line-height: 40px;
+     p{ 
+        color:hsl(0, 0%, 0%); 
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font: size 1000px 1000px;
+     }
     
 }
 
