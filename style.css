@@ -1,0 +1,66 @@
+html{
+    background-color: rgb(249, 223, 188);
+}
+
+a{
+    background-color: hsl(30, 100%, 67%);
+    text-decoration:none;
+    padding: 10px 144px;
+}
+
+header{
+    background-color:hsl(30, 100%, 67%);
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:3px 50px; 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    background-image:url("./Personal web/pexels-eugene-golovesov-3415401.jpg") ;
+    background-size: 100% 100%;
+    background-position-x: center;
+    background-position-y: 10px;
+    background-repeat: no-repeat;
+    h1{
+        color:hsl(34, 100%, 47%); 
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font: size 1000px 1000px;;
+    }
+       color:rgb(251, 220, 198);
+       font-family: Georgia, 'Times New Roman', Times, serif;
+       font-size:medium;
+       line-height: 40px;
+    
+}
+
+<style>
+
+#nav {
+    font-size: medium;
+    height:30px;
+    width:1500px;
+    float:top;
+    padding:5px; 
+    background-color: black;
+}
+#section {
+    text-align: center;
+    width:600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+#footer {
+    background-color:hsl(30, 100%, 67%);
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:3px 592px; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 1%;
+   
+}
+</style>
